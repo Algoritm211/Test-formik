@@ -1,0 +1,14 @@
+.LoginForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LoginForm > form {
+    min-width: 600px;
+}
+
+.formButtons {
+    display: flex;
+    justify-content: space-between;
+}
